@@ -28,5 +28,25 @@ This project demonstrates an Invoice Extractor application using Google's Gemini
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/invoice-extractor.git
+git clone https://github.com/Anuraggupta96/Multilingual-Invoice-Extractor.git
 cd invoice-extractor# Multilingual-Invoice-Extractor
+
+2. Install dependencies:
+```bash
+   pip install -r requirements.txt
+
+3. Set up your environment variables::
+   
+- Create a .env file in the root directory of your project.
+- Add your Google API key in the .env file:
+   ```bash
+   GOOGLE_API_KEY=your_google_api_key_here
+
+## Application Execution
+1. **Run the Streamlit app:**
+
+   ```bash
+   streamlit run vision.py
+
+2. **Open your web browser and go to the local URL provided (e.g., http://localhost:8501).**
+
