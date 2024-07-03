@@ -15,6 +15,15 @@ This project demonstrates an Invoice Extractor application using Google's Gemini
 * **AI-Driven Responses**: The application uses Google's Gemini Vision Pro API to analyze the uploaded invoices and generate responses based on user queries.
 * **Dynamic Prompting**: Users can input custom prompts to guide the AI in extracting specific information from the invoices.
 
+**Application Demon**
+---------------------
+* **Extraction from German Invoice**:
+
+![Alt Text](https://github.com/Anuraggupta96/Multilingual-Invoice-Extractor/blob/main/German1.png)
+
+* **Extraction from English Invoice**:
+
+![Alt Text](https://github.com/Anuraggupta96/Multilingual-Invoice-Extractor/blob/main/English1.png)
 **Technology Stack**
 --------------------
 
