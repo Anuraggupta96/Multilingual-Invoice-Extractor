@@ -25,14 +25,13 @@ This project demonstrates an Invoice Extractor application using Google's Gemini
 
 **Installation and Setup**
 -------------------------
-
-### Clone the repository:
-```bash
-git clone https://github.com/Anuraggupta96/Multilingual-Invoice-Extractor.git
-cd invoice-extractor# Multilingual-Invoice-Extractor
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Anuraggupta96/Multilingual-Invoice-Extractpr.git/
+   cd Multilingual-Invoice-Extractor
 
 2. Install dependencies:
-```bash
+   ```bash
    pip install -r requirements.txt
 
 3. Set up your environment variables::
@@ -46,7 +45,7 @@ cd invoice-extractor# Multilingual-Invoice-Extractor
 1. **Run the Streamlit app:**
 
    ```bash
-   streamlit run vision.py
+   streamlit run InvoiceReader.py
 
 2. **Open your web browser and go to the local URL provided (e.g., http://localhost:8501).**
 
